@@ -1,2 +1,1 @@
-# DVWA-Web-Application-Security-Assessment
-My first VAPT portfolio project demonstrating web application security testing on DVWA.
+<img width="1864" height="2268" alt="image" src="https://github.com/user-attachments/assets/ff33f83e-da6a-4117-aa29-0928fe614b89" />
